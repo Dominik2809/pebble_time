@@ -1,8 +1,7 @@
 {
     "appKeys": {},
     "capabilities": [
-        "location",
-        "configurable"
+        "location"
     ],
     "companyName": "domi-2809@hotmail.de",
     "longName": "watchface_js",
@@ -38,6 +37,6 @@
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }

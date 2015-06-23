@@ -14,10 +14,11 @@ window.add(bgRect);
 
 var timeText = new UI.TimeText
 ({
-	position:  Vector2(0, 24),
+	//position:  Vector2(0, 24),
+	position: Vector2(0, 24),
 	size:  Vector2(144, 30),
 	color: 'white',
-	text:	'%H:%M',
+	text:	'%H:%M:%S',
 	textAlign: 'center',
 	font: 'bitham-42-bold'
 });
